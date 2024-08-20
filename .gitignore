@@ -1,5 +1,3 @@
-.vscode
-.devcontainer
 build/
 managed_components/
 *.bin
